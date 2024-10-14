@@ -5,7 +5,7 @@
 - [Single Sign-On](##Single-Sign-On)
 - [Authentication Framework, Protocols, and Tools](##Authentication-Framework,-Protocols,-and-Tools)
 - [Access Control and Methods](##Access-Control-and-Methods)
-- [Access Control Best Practices](##-Access-Control-Best-Practices)
+- [Access Control Best Practices](#Access-Control-Best-Practices)
 - [Network Access Control](##Network-Access-Control)
 
 ## Authentication and Access Control Overview
