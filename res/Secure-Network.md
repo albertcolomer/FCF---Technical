@@ -27,8 +27,7 @@ El  perímetro  seguro  puede  filtrar  el  tráfico  en  diferentes  capas  OSI
 En  la  capa  de  enlace  de  datos,  crear  una  lista  de  control  de  acceso  (ACL) y filtar por medio de la MAC
 
 En  la  capa  de  transporte:
-- filtrado  de  paquetes  permite  o  rechaza  paquetes  en  
-función  de  un  conjunto  de  reglas  configuradas. El filtrado puede ser:
+- filtrado  de  paquetes  permite  o  rechaza  paquetes  en función  de  un  conjunto  de  reglas  configuradas. El filtrado puede ser:
     - Sin estado:  cada  paquete  se  comprueba  en  función  de  sus  direcciones IP,  puertos  de  origen  y  destino  y  protocolo.
     - Con estado:   el  dispositivo  de  seguridad  realiza un  seguimiento  de  la  comprobación  de  5  tuplas  y  del  estado  de  la  conexión  TCP/IP,  el  tráfico  de  retorno  se  valida  solo  si  coincide  con  el  tráfico  entrante  correspondiente
 
@@ -153,8 +152,7 @@ Secure  Access  Service  Edge
 - agente  de  seguridad  de  acceso  a  la  nube  (CASB):  Protege  las  aplicaciones  en  la  nube  alojadas  en  nubes  públicas  (IaaS),  nubes  privadas  o   SaaS.
 Evita  fugas  de  datos,  infecciones  de  malware,  incumplimiento  normativo 
 
-- firewall  como  servicio  (FWaaS):   firewall  de  próxima  generación  (NGFW)  sistema  de  prevención  de  intrusiones  (IPS),  antimalware,  inspección  
-SSL  y  Sandbox.
+- firewall  como  servicio  (FWaaS):   firewall  de  próxima  generación  (NGFW)  sistema  de  prevención  de  intrusiones  (IPS),  antimalware,  inspección SSL  y  Sandbox.
  26
 
 - Gestión  centralizada
@@ -261,8 +259,7 @@ almacenan  información  del  puerto,  incluidas  las  capacidades  del  puerto,
 
 Envían  tramas  a  los  puertos  del  conmutador  correspondiente
 
-Los  conmutadores  son  propensos  a  posibles  
-tormentas e  inundar  una  trama ( de  difusión,  de  unidifusión  o  de  multidifusión)  y  la  dirección  MAC  no  está  en  la  tabla CAM
+Los  conmutadores  son  propensos  a  posibles tormentas e  inundar  una  trama ( de  difusión,  de  unidifusión  o  de  multidifusión)  y  la  dirección  MAC  no  está  en  la  tabla CAM
 
 los  conmutadores  pueden  controlar  la  cantidad  máxima  de  paquetes  de  difusión,  unidifusión desconocida  y  multidifusión  enviados  por  segundo  en  un  puerto  a  través  de  un  umbral  configurable
 
