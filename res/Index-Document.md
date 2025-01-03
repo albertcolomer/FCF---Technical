@@ -37,7 +37,7 @@
     - [Secure Remote Access Overview](Secure-Remote-Access.md/#Secure-Remote-Access-Overview)
     - [SSL VPN](Secure-Remote-Access.md/#SSL-VPN)
     - [IPsec VPN](Secure-Remote-Access.md/#IPsec-VPN)
-    - [Zero Trust Network Access (ZTNA)](Secure-Remote-Access.md/#Zero-Trust-Network-Access-(ZTNA))
+    - [Zero Trust Network Access (ZTNA)](Secure-Remote-Access.md/#Zero-Trust-Network-Access-"ZTNA")
 
 <br>
 
@@ -48,7 +48,7 @@
 
 <br>
 
-- [Modulo 6:Secure Data and Applications](Secure-Data-and-Applications.md)
+- [Modulo 6: Secure Data and Applications](Secure-Data-and-Applications.md)
     - [Secure Data and Applications Overview](Secure-Data-and-Applications.md/#Secure-Data-and-Applications-Overview)
     - [Data Protection](Secure-Data-and-Applications.md/#Data-Protection)
     - [Data Privacy](Secure-Data-and-Applications.md/#Data-Privacy)

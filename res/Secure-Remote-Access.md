@@ -1,9 +1,9 @@
 # Secure Remote Access
 
-- [Secure Remote Access Overview](##-Secure-Remote-Access-Overview)
-- [SSL VPN](##-SSL-VPN)
-- [IPsec VPN](##-IPsec-VPN)
-- [Zero Trust Network Access (ZTNA)](Zero-Trust-Network-Access-(ZTNA))
+- [Secure Remote Access Overview](#Secure-Remote-Access-Overview)
+- [SSL VPN](#SSL-VPN)
+- [IPsec VPN](#IPsec-VPN)
+- [Zero Trust Network Access "ZTNA"](#Zero-Trust-Network-Access-"ZTNA")
 
 ## Secure Remote Access Overview
 
@@ -116,7 +116,7 @@ Utiliza  el  protocolo  de  datagramas  de  usuario  (UDP)  como  protocolo  de 
 
 <br>
 
-## Zero Trust Network Access (ZTNA)
+## Zero Trust Network Access "ZTNA"
 ---
 
 ZTNA  establece  una  sesión  segura  entre  una  entidad  final  y  una  red,  al  tiempo  que  garantiza  un  control  granular  sobre  el  acceso  a  los recursos  y  ejerce  confianza  cero,  independientemente  de  la  ubicación  de  la  entidad  final  o  de  la  red.  
