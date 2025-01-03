@@ -26,7 +26,7 @@
     - [Authentication and Access Control Overview](Authentication-and-Access-Control.md/#Authentication-and-Access-Control-Overview)
     - [Authentication Methods](Authentication-and-Access-Control.md/#Authentication-Methods)
     - [Single Sign-On](Authentication-and-Access-Control.md/#Single-Sign-On)
-    - [Authentication Framework, Protocols, and Tools](Authentication-and-Access-Control.md/#Authentication-Framework,-Protocols,-and-Tools)
+    - [Authentication Framework, Protocols, and Tools](Authentication-and-Access-Control.md/#Authentication-Framework-Protocols-and-Tools)
     - [Access Control and Methods](Authentication-and-Access-Control.md/#Access-Control-and-Methods)
     - [Access Control Best Practices](Authentication-and-Access-Control.md/#Access-Control-Best-Practices)
     - [Network Access Control](Authentication-and-Access-Control.md/#Network-Access-Control)
