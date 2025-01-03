@@ -14,10 +14,9 @@
 - [Common Network Threats and Prevention](#Common-Network-Threats-and-Prevention)
 
 ## Secure Network Overview
----
 
 ## Secure Perimeter
----
+
 <div align=center>
 
 ![Capas OSI](Img/CapasOSI.png)
