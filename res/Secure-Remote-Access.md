@@ -42,8 +42,7 @@ Es  una  tecnología  que  permite  una  sesión  cifrada,  junto  con  otras  f
 
 Requiere  un  cliente (navegador) y  un  servidor (servidor web)
 
-Garantiza  la  privacidad,  la  integridad  de  los  datos,  la  autenticación  y  la  
-funcionalidad  anti reproducción
+Garantiza  la  privacidad,  la  integridad  de  los  datos,  la  autenticación  y  la funcionalidad  anti reproducción
 
 La  seguridad  la  proporciona  el  protocolo  de  seguridad  de  la  capa  de  transporte (TLS)  en  la  capa  de  transporte  del  modelo  OSI. TLS  sucedió  al  protocolo  de  capa  de  sockets  seguros  (SSL),  ahora  obsoleto, SSL  se  ha  convertido  en  sinónimo  de  TLS
 
