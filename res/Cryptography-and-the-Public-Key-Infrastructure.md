@@ -1,9 +1,9 @@
 
 # Module 1: Cryptography and the Public Key Infrastructure
-   - [Ciphers Lesson](##Ciphers-Lesson)
-   - [Keys and Cryptographic Algorithms Lesson](##Keys-and-Cryptographic-Algorithms-Lesson)
-   - [Hashing and Digital Signatures](##Hashing-and-Digital-Signatures)
-   - [Public Key Infrastructure](##Public-Key-Infrastructure)
+   - [Ciphers Lesson](#Ciphers-Lesson)
+   - [Keys and Cryptographic Algorithms Lesson](#Keys-and-Cryptographic-Algorithms-Lesson)
+   - [Hashing and Digital Signatures](#Hashing-and-Digital-Signatures)
+   - [Public Key Infrastructure](#Public-Key-Infrastructure)
 
 
 <br>
@@ -11,7 +11,6 @@
 <br>
 
 ## Cryptography and the Public Key Infrastructure Overview
----
 
 La tecnología criptográfica permite cifrar datos y firmarlos digitalmente. El cifrado es el proceso de
 convertir texto plano en texto criptográfico, es decir, hacer ilegible algo que era legible. Una firma
@@ -33,7 +32,6 @@ Una vez finalizado este módulo, comprenderás mejor el funcionamiento de estas 
 <br>
 
 ## Ciphers Lesson
----
 
 La potencia de los ordenadores permite un cifrado más sofisticado, pero los conceptos siguen siendo los mismos. Dos
 tipos de cifrado que se emplean habitualmente son los de flujo y los de bloque.
