@@ -3,7 +3,7 @@
 - [Secure Remote Access Overview](#Secure-Remote-Access-Overview)
 - [SSL VPN](#SSL-VPN)
 - [IPsec VPN](#IPsec-VPN)
-- [Zero Trust Network Access "ZTNA"](#Zero-Trust-Network-Access-"-ZTNA-")
+- [Zero Trust Network Access ZTNA](#Zero-Trust-Network-Access-ZTNA)
 
 ## Secure Remote Access Overview
 
@@ -37,7 +37,7 @@ What access control to network resources exists after a session is established? 
 <br>
 
 ## SSL VPN
----
+
 Es  una  tecnología  que  permite  una  sesión  cifrada,  junto  con  otras  funciones  de  seguridad,  entre  dos dispositivos  informáticos  y  proporciona  seguridad  desde  la  capa  de  transporte  del  modelo  OSI,  mientras  se  comunican  datos  en  la capa  de  aplicación
 
 Requiere  un  cliente (navegador) y  un  servidor (servidor web)
@@ -116,8 +116,8 @@ Utiliza  el  protocolo  de  datagramas  de  usuario  (UDP)  como  protocolo  de 
 
 <br>
 
-## Zero Trust Network Access "ZTNA"
----
+## Zero Trust Network Access ZTNA
+
 
 ZTNA  establece  una  sesión  segura  entre  una  entidad  final  y  una  red,  al  tiempo  que  garantiza  un  control  granular  sobre  el  acceso  a  los recursos  y  ejerce  confianza  cero,  independientemente  de  la  ubicación  de  la  entidad  final  o  de  la  red.  
 Parte  del  principio  de  confianza  cero  es  la  práctica  del  acceso  con  el  <u>mínimo  privilegio.</u>  Los  usuarios  solo tienen acceso  a  los  recursos  necesarios  para  cumplir  con su  trabajo   
