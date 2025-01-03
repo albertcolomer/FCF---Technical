@@ -3,7 +3,7 @@
 - [Secure Remote Access Overview](#Secure-Remote-Access-Overview)
 - [SSL VPN](#SSL-VPN)
 - [IPsec VPN](#IPsec-VPN)
-- [Zero Trust Network Access "ZTNA"](#Zero-Trust-Network-Access-"ZTNA")
+- [Zero Trust Network Access "ZTNA"](#Zero-Trust-Network-Access-"-ZTNA-")
 
 ## Secure Remote Access Overview
 
