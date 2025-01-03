@@ -2,7 +2,7 @@
     - [Ciphers Lesson](Cryptography-and-the-Public-Key-Infrastructure.md/##Ciphers-Lesson)
     - [Keys and Cryptographic Algorithms Lesson](Cryptography-and-the-Public-Key-Infrastructure.md/##Keys-and-Cryptographic-Algorithms-Lesson)
     - [Hashing and Digital SignaturesLinked Course](Cryptography-and-the-Public-Key-Infrastructure.md/##Hashing-and-Digital-SignaturesLinked-Course)
-    - [Public Key Infrastructure](Cryptography-and-the-Public-Key-Infrastructure.md/##Public-Key-Infrastructure)
+    - [Public Key Infrastructure](Cryptography-and-the-Public-Key-Infrastructure.md/#Public-Key-Infrastructure)
 
 <br>
 
