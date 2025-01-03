@@ -1,17 +1,17 @@
 # Module 2: Secure Network
 
-- [Secure Network Overview](##Secure-Network-Overview)
-- [Secure Perimeter](##Secure-Perimeter)
-- [Zero Trust Principles](##Zero-Trust-Principles)
-- [Centralized Security Network Management](##Centralized-Security-Network-Management)
-- [Secure SD-WAN](##Secure-SD-WAN)
-- [SASE](##SASE)
-- [Network Segmentation](##Network-Segmentation)
-- [Firewalls](##Firewalls)
-- [Secure Switching and Ports](##Secure-Switching-and-Ports)
-- [Security Protocols](##Security-Protocols)
-- [Sandbox](##Sandbox)
-- [Common Network Threats and Prevention](##Common-Network-Threats-and-Prevention)
+- [Secure Network Overview](#Secure-Network-Overview)
+- [Secure Perimeter](#Secure-Perimeter)
+- [Zero Trust Principles](#Zero-Trust-Principles)
+- [Centralized Security Network Management](#Centralized-Security-Network-Management)
+- [Secure SD-WAN](#Secure-SD-WAN)
+- [SASE](#SASE)
+- [Network Segmentation](#Network-Segmentation)
+- [Firewalls](#Firewalls)
+- [Secure Switching and Ports](#Secure-Switching-and-Ports)
+- [Security Protocols](#Security-Protocols)
+- [Sandbox](#Sandbox)
+- [Common Network Threats and Prevention](#Common-Network-Threats-and-Prevention)
 
 ## Secure Network Overview
 ---
@@ -44,7 +44,7 @@ En  la  capa  de  aplicación:
 <br>
 
 ## Zero Trust Principles
----
+
 Un  concepto  o  estrategia  de  seguridad  que  tiene  tres  principios  básicos:
  - Nunca confiar  en  un  usuario  o  dispositivo: 
     - Autenticar  a  un  usuario  o  dispositivo  para  determinar  su  identidad
@@ -92,7 +92,7 @@ ZTNA  es  una  tecnología  que  establece  una  sesión  segura  automáticamen
 <br>
 
 ## Centralized Security Network Management
----
+
 La  gestión  centralizada  de  la  red  de  seguridad  se  refiere  al  acto  de  recopilar  datos  relacionados  con  la  seguridad  de  varios  dispositivos  y  aplicaciones  en  una  ubicación  central.
 - simple network management protocol (SNMP)
 - application programing interface (API)
@@ -109,7 +109,7 @@ Fabric  Management  Center  ofrece  una  visión  amplia  de  la  seguridad  y  
 <br>
 
 ## Secure SD-WAN
----
+
  (Software-Defined Wide Area Network) es una tecnología de red de área amplia, ofrece una forma eficiente y flexible de gestionar redes empresariales distribuidas que dependen de la nube y las conexiones remotas
 
 - Funcionamiento:
@@ -147,7 +147,7 @@ Fabric  Management  Center  ofrece  una  visión  amplia  de  la  seguridad  y  
 <br>
 
 ## SASE
----
+
 Secure  Access  Service  Edge
 
 - Red  de  área  amplia  definida  por  software  (SD-WAN)
@@ -167,7 +167,6 @@ FortiSASE  integra  la  conectividad  SDWAN  con  el  borde  del  servicio  de  
 <br>
 
 ## Network Segmentation
----
 
 Zona desmilitarizada (DMZ):  servidores  a  los  que  se  desea  que  se  pueda  acceder  desde  Internet.  El  tráfico  se  clasifica como norte-sur
 
@@ -212,7 +211,6 @@ Beneficios de la  segmentación  de  red:
 <br>
 
 ## Firewalls
----
 
  Se  clasifican  en  generaciones:
 
@@ -258,7 +256,7 @@ Beneficios de la  segmentación  de  red:
 <br>
 
 ## Secure Switching and Ports
----
+
  Los  conmutadores  funcionan  en  la  capa  de  enlace  de  datos  del  modelo  OSI
 
 Asignan  paquetes  a  las  VLAN  en  función  de  la  dirección  MAC  de  origen  del paquete
@@ -290,7 +288,6 @@ Mejores  prácticas:
 
 
 ## Security Protocols
----
 
 Un  protocolo  proporciona  un  conjunto  de  reglas  y  métodos  utilizados  para  establecer  una  comunicación  entre  diferentes  dispositivos
 
@@ -317,7 +314,6 @@ Actualmente:
 <br>
 
 ## Sandbox
----
 
 Es  un  sistema  que  limita  las  acciones  de  una  aplicación  aíslandola  para  que  cualquier  intención  maliciosa pueda  descubrirse  de  forma  segura, si  detecta  un  comportamiento  malicioso,  pone  el  archivo  en  cuarentena  y  evita  que  acceda a  otras  computadoras  y  dispositivos  de  la  red
 
@@ -336,7 +332,6 @@ amenazas
 <br>
 
 ## Common Network Threats and Prevention
----
 
 - Spoofing (suplantación  de  identidad):  es  una  amenaza  en  la  que  el  atacante  se  hace  pasar  por  un  dispositivo  o  usuario  autorizado
 
