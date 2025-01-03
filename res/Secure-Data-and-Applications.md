@@ -3,9 +3,9 @@
 - [Data Protection](#Data-Protection)
 - [Data Privacy](#Data-Privacy)
 - [Secure Email Gateway SEG](#Secure-Email-Gateway-SEG)
-- [Firewall de Aplicaciones Web WAF](##Firewall-de-Aplicaciones-Web-WAF)
-- [Content Filters](##Content-Filters)
-- [Application Hardening Techniques](##Application-Hardening-Techniques)
+- [Firewall de Aplicaciones Web WAF](#Firewall-de-Aplicaciones-Web-WAF)
+- [Content Filters](#Content-Filters)
+- [Application Hardening Techniques](#Application-Hardening-Techniques)
 
 ## Secure Data and Applications Overview
 
