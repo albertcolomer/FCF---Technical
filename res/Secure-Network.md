@@ -31,7 +31,7 @@ En  la  capa  de  transporte:
 función  de  un  conjunto  de  reglas  configuradas. El filtrado puede ser:
     - Sin estado:  cada  paquete  se  comprueba  en  función  de  sus  direcciones IP,  puertos  de  origen  y  destino  y  protocolo.
     - Con estado:   el  dispositivo  de  seguridad  realiza un  seguimiento  de  la  comprobación  de  5  tuplas  y  del  estado  de  la  conexión  TCP/IP,  el  tráfico  de  retorno  se  valida  solo  si  coincide  con  el  tráfico  entrante  correspondiente
-    
+
 - filtrado  de  traducción  de  direcciones  de  red  (NAT): puede traducir  una  dirección  IP  pública  a  una  dirección  IP  privada  y  una  dirección  IP  privada  a  una  dirección  IP  pública.
 
 En  la  capa  de  aplicación:
@@ -187,8 +187,7 @@ Formas de acceder a redes segmentadas:
 
 <div>
 
-Un  jumpbox  es  un  dispositivo  con  control  de  acceso  
-mejorado  y  autorización  limitada  que  actúa  como  proxy  para  los  dispositivos  en  el  segmento  interno.   cuenta  con monitoreo  y  registro
+Un  jumpbox  es  un  dispositivo  con  control  de  acceso mejorado  y  autorización  limitada  que  actúa  como  proxy  para  los  dispositivos  en  el  segmento  interno.   cuenta  con monitoreo  y  registro
 
 <br>
 Host  bastión  es  un  servidor  o  computadora  cuyo  propósito  es  
