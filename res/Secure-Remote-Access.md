@@ -78,7 +78,6 @@ El  servidor no  es  necesariamente  un  servidor  web  dedicado;  podría  ser
 <br>
 
 ## IPsec VPN
----
 
 Es  la  tecnología  que  garantiza  la  privacidad  e  integridad  de  los  datos  entre  dos  o  más  dispositivos  informáticos  y  proporciona  seguridad  en  la capa  de  red  del  modelo  OSI
 
