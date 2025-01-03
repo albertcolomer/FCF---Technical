@@ -1,12 +1,11 @@
 # Endpoint Security
 
-- [Endpoint Security Overview](##Endpoint-Security-Overview)
-- [Internet of Things](##Internet-of-Things)
-- [Endpoint Hardening Techniques](##Endpoint-Hardening-Techniques)
+- [Endpoint Security Overview](#Endpoint-Security-Overview)
+- [Internet of Things](#Internet-of-Things)
+- [Endpoint Hardening Techniques](#Endpoint-Hardening-Techniques)
 
 
 ## Endpoint Security Overview
----
 
 Un  punto  final  se  definía  como  un  dispositivo  que  se  conecta a  una  red  o  a  otros  dispositivos
 
@@ -15,7 +14,6 @@ Un  punto  final  se  definía  como  un  dispositivo  que  se  conecta a  una  
 <br>
 
 ## Internet of Things
----
 
 Es  la  red  de  objetos  físicos  conectados  a  Internet  mediante  software,  sensores  y  otras  tecnologías
 
@@ -41,7 +39,6 @@ Un  riesgo que  supone  la  vulneración  de  dispositivos  IoT  es  la  creaci�
 
 
 ## Endpoint Hardening Techniques
----
 
 1. Fortalecimiento  de  los  puntos  finales
     - Controles  administrativos
