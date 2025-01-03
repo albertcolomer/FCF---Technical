@@ -1,15 +1,14 @@
 # Authentication and Access Control
 
-- [Authentication and Access Control Overview](##Authentication-and-Access-Control-Overview)
-- [Authentication Methods](##Authentication-Methods)
-- [Single Sign-On](##Single-Sign-On)
-- [Authentication Framework, Protocols, and Tools](##Authentication-Framework,-Protocols,-and-Tools)
-- [Access Control and Methods](##Access-Control-and-Methods)
+- [Authentication and Access Control Overview](#Authentication-and-Access-Control-Overview)
+- [Authentication Methods](#Authentication-Methods)
+- [Single Sign-On](#Single-Sign-On)
+- [Authentication Framework, Protocols, and Tools](#Authentication-Framework,-Protocols,-and-Tools)
+- [Access Control and Methods](#Access-Control-and-Methods)
 - [Access Control Best Practices](#Access-Control-Best-Practices)
-- [Network Access Control](##Network-Access-Control)
+- [Network Access Control](#Network-Access-Control)
 
 ## Authentication and Access Control Overview
----
 
 La  ciberseguridad  requiere  la  capacidad  de  limitar  el  acceso  en  función  de  la  identidad  de  una  persona  o  dispositivo
 
@@ -26,7 +25,6 @@ La  ciberseguridad  requiere  la  capacidad  de  limitar  el  acceso  en  funci�
 <br>
 
 ## Authentication Methods
----
 
 Los  factores  de  autenticación  más  comunes  son:
 
@@ -48,7 +46,6 @@ La  autenticación  multifactor  (MFA)  brinda  al  autenticador  una  mayor  co
 <br>
 
 ## Single Sign-On
----
 
 Es  un  proceso  de  autenticación  mediante  el  cual  un  usuario  se  autentica  una  vez  y  puede  acceder  a  múltiples  recursos  en  muchos  
 sistemas  y dominios
@@ -64,7 +61,6 @@ FortiAuthenticator  es  un  producto  y  una  plataforma  de  autenticación
 <br>
 
 ## Authentication Framework, Protocols, and Tools
----
 
 - El  servicio  de  acceso  telefónico  de  usuario  con  autenticación  remota  (RADIUS)  es  un  protocolo  y  software  de  autenticación,  autorización  
 y  contabilidad  (AAA)  de  cliente-servidor  que  permite  a  los  servidores  de  acceso  remoto  comunicarse  con  un  servidor  central  para  autenticar  a  los usuarios  que  acceden  telefónicamente  y  autorizar  su  acceso  al  sistema  o  servicio  solicitado
@@ -126,7 +122,6 @@ o  un  punto  de  acceso  inalámbrico
 <br>
 
 ## Access Control and Methods
----
 
 El  control  de  acceso  es  la  capacidad  de  restringir  el  acceso  a  una  ubicación  física  o  un  recurso,  determina  lo  que  puede  hacer
 
@@ -156,7 +151,6 @@ reglas  recopila  y  evalúa  atributos  en  función  de  una  política
 <br>
 
 ## Access Control Best Practices
----
 
 Un  sistema  de  gobernanza,  que  suele  ser  un  equipo  responsable  de  revisar  y  actualizar  los  métodos  y  políticas  de  control  de  acceso,  revisa y  modifica  el  proceso.  Debido  a  la  naturaleza  altamente  dinámica  de  la  autenticación  y  la  concesión  de  acceso,  es  importante  realizar revisiones  y  pruebas  periódicas  de  cada  etapa  del  ciclo  de  vida.
 
@@ -182,7 +176,6 @@ El  principio  de  mínimo  privilegio,  o  PoLP,  y  la  arquitectura  de  conf
 <br>
 
 ## Network Access Control
----
 
  El  control  de  acceso  a  la  red  (NAC)  es  un  dispositivo  o  una  máquina  virtual  que  controla  el  acceso  a  una  red
 
