@@ -1,21 +1,19 @@
 # Cloud Security and Virtualization
 
-- [Cloud Security and Virtualization Overview](##Cloud-Security-and-Virtualization-Overview)
-- [Cloud Security](##Cloud-Security)
-- [Virtual Machine Risks](##Virtual-Machine-Risks)
-- [Common Cloud Threats](##Common-Cloud-Threats)
-- [Cloud Hosted Security Services](##Cloud-Hosted-Security-Services)
-- [Securing the Cloud](##Securing-the-Cloud)
+- [Cloud Security and Virtualization Overview](#Cloud-Security-and-Virtualization-Overview)
+- [Cloud Security](#Cloud-Security)
+- [Virtual Machine Risks](#Virtual-Machine-Risks)
+- [Common Cloud Threats](#Common-Cloud-Threats)
+- [Cloud Hosted Security Services](#Cloud-Hosted-Security-Services)
+- [Securing the Cloud](#Securing-the-Cloud)
 
 ## Cloud Security and Virtualization Overview
----
 
 <br>
 
 <br>
 
 ## Cloud Security
----
 
 Los  centros  de  datos  se  transformaron  de  filas  de  hardware  informático  dedicado  a  aplicaciones  específicas a  una  colección  (o  grupo)  de  recursos  de  hardware  generales  que  ejecutaban  aplicaciones  virtualizadas
 
@@ -42,7 +40,6 @@ La  seguridad  es  una  responsabilidad  compartida  entre  el  proveedor  de  l
 <br>
 
 ## Virtual Machine Risks
----
 
 La  virtualización  es  el  proceso  de  utilizar  un  único  recurso  de  hardware  físico  para  crear  múltiples  instancias  virtuales  de  dispositivos  en  funcionamiento,  como computadoras
 
@@ -74,7 +71,6 @@ Para  garantizar  la  disponibilidad  y  la  recuperación  ante  desastres,  la
 <br>
 
 ## Common Cloud Threats
----
 
 La  mayor  amenaza  para  las  nubes  públicas  y  los  entornos  virtuales  se  percibe  como  errores  en  la  configuración,  la  instalación (setup) y  la  implementación (deployment)
 
@@ -105,7 +101,6 @@ El  monitoreo  en  tiempo  real  del  estado  de  los  sistemas,  el  almacenami
 <br>
 
 ## Cloud Hosted Security Services
----
 
 Un  firewall  basado  en  la  nube  puede  reemplazar  un  firewall  alojado  localmente  y  centralizar  la  seguridad  de  la  red  en  un  solo  lugar,  permitiendo  que  solo  el  tráfico  de  la  red  local  se  enrute  a  cada  sucursal  a  través  de  una  red  privada  virtual  (VPN)  segura, ademas puede proporcionar una  capa  adicional de  protección  contra  posibles  atacantes
 
@@ -131,7 +126,6 @@ El  servicio  de  acceso  seguro  en  el  borde,  o  SASE,  es  un  modelo  de  
 <br>
 
 ## Securing the Cloud
----
 
 Además  de  los  cortafuegos,  puede  alojar  escáneres  de  prevención  de  pérdida  de  datos,  motores  antivirus  y  entornos  aislados  en  la  nube para  proporcionar  servicios  de  seguridad  inmediatos  que  los  usuarios  se  autentiquen  a  través  de  un  vínculo cifrado,  como  SSL,  o  mediante  una  VPN
 
