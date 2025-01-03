@@ -1,14 +1,13 @@
 # Secure Data and Applications
-- [Secure Data and Applications Overview](##Secure-Data-and-Applications-Overview)
-- [Data Protection](##Data-Protection)
-- [Data Privacy](##Data-Privacy)
-- [Secure Email Gateway (SEG)](##Secure-Email-Gateway-(SEG))
-- [Firewall de Aplicaciones Web (WAF)](##Firewall-de-Aplicaciones-Web-(WAF))
+- [Secure Data and Applications Overview](#Secure-Data-and-Applications-Overview)
+- [Data Protection](#Data-Protection)
+- [Data Privacy](#Data-Privacy)
+- [Secure Email Gateway SEG](#Secure-Email-Gateway-SEG)
+- [Firewall de Aplicaciones Web WAF](##Firewall-de-Aplicaciones-Web-WAF)
 - [Content Filters](##Content-Filters)
 - [Application Hardening Techniques](##Application-Hardening-Techniques)
 
 ## Secure Data and Applications Overview
----
 
 Quienes  almacenan  datos  confidenciales  sean  responsables  de  su  seguridad  
 La  protección  de  los  datos  es  un  esfuerzo  continuo  durante  todo  el  ciclo  de  vida  de  los  mismos  
@@ -19,7 +18,6 @@ Los  filtros  de  contenido  ayudan  a  administrar  los  datos  al  restringir 
 <br>
 
 ## Data Protection
----
 
 Debe garantizar:
 - Integridad: garantiza que los datos son auténticos, precisos, fiables y no están manipulados. Firmas digitales, hashing
@@ -61,7 +59,6 @@ Para  una  protección  completa  de  los  datos  mientras  están  en  uso,  en
 <br>
 
 ## Data Privacy
----
 
 La  privacidad  de  datos  se  refiere  al  manejo  adecuado  de  datos  personales  y  otros  tipos  de  datos  sensibles e incluye la privacidad  del  público  y  el  derecho  a  tener  control  sobre  sus  propios  datos  personales
 
@@ -82,8 +79,7 @@ La  protección  de  este  derecho  se  ha  reflejado  en  muchas  leyes  de  pr
 
 <br>
 
-## Secure Email Gateway (SEG)
----
+## Secure Email Gateway SEG
 
 SEG  es  una  solución  tecnológica diseñada  para  proteger  a  las  organizaciones  de  las  amenazas  basadas  en  el  correo  electrónico  y  garantizar  la  seguridad  y  privacidad  de  sus  comunicaciones  por  correo electrónico.  Funciona  como  una  barrera  entre  la  infraestructura  de  correo  electrónico  de  una  organización e Internet. Funciones:
 - Filtros  de  contenido: Se  utilizan  para  controlar  y  administrar los  tipos  de  contenido  a  los  que  se  puede  acceder  o  compartir  en  una  red,   incluye spam, datos  inapropiados  o confidenciales
@@ -100,8 +96,7 @@ Funciona  junto  con  otras  tecnologías  de  autenticación  de  correo  elect
 
 <br>
 
-## Firewall de Aplicaciones Web (WAF)
----
+## Firewall de Aplicaciones Web WAF
 
 Es  un  dispositivo  o  software  que  supervisa  el  tráfico  HTTP/HTTPS  y  puede  bloquear  el  tráfico malicioso  hacia  y  desde  una  aplicación  web
 
@@ -112,7 +107,6 @@ FortiWeb protege  tanto  las  aplicaciones  web  como  las  interfaces  de  prog
 <br>
 
 ## Content Filters
----
 
 Tipos  más  comunes  de  filtros  de  contenido  incluyen:  
 
@@ -129,7 +123,6 @@ Tipos  más  comunes  de  filtros  de  contenido  incluyen:
 <br>
 
 ## Application Hardening Techniques
----
 
 El  endurecimiento  es  un  requisito  de  seguridad  recomendado  que  se  define  en  diversas  normas  y  regulaciones  de  ciberseguridad, yuda  a  minimizar  las  vulnerabilidades  y  reduce  la  superficie  de  ataque
 

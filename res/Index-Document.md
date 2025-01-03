@@ -37,7 +37,7 @@
     - [Secure Remote Access Overview](Secure-Remote-Access.md/#Secure-Remote-Access-Overview)
     - [SSL VPN](Secure-Remote-Access.md/#SSL-VPN)
     - [IPsec VPN](Secure-Remote-Access.md/#IPsec-VPN)
-    - [Zero Trust Network Access (ZTNA)](Secure-Remote-Access.md/#Zero-Trust-Network-Access-"ZTNA")
+    - [Zero Trust Network Access ZTNA](Secure-Remote-Access.md/#Zero-Trust-Network-Access-ZTNA)
 
 <br>
 
@@ -52,8 +52,8 @@
     - [Secure Data and Applications Overview](Secure-Data-and-Applications.md/#Secure-Data-and-Applications-Overview)
     - [Data Protection](Secure-Data-and-Applications.md/#Data-Protection)
     - [Data Privacy](Secure-Data-and-Applications.md/#Data-Privacy)
-    - [Secure Email Gateway (SEG)](Secure-Data-and-Applications.md/#Secure-Email-Gateway-(SEG))
-    - [Firewall de Aplicaciones Web (WAF)](Secure-Data-and-Applications.md/#Firewall-de-Aplicaciones-Web-(WAF))
+    - [Secure Email Gateway SEG](Secure-Data-and-Applications.md/#Secure-Email-Gateway-SEG)
+    - [Firewall de Aplicaciones Web WAF](Secure-Data-and-Applications.md/#Firewall-de-Aplicaciones-Web-WAF)
     - [Content Filters](Secure-Data-and-Applications.md/#Content-Filters)
     - [Application Hardening Techniques](Secure-Data-and-Applications.md/#Application-Hardening-Techniques)
 
